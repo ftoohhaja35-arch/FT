@@ -1,0 +1,4 @@
+node_modules/
+idh.sqlite
+*.sqlite-shm
+*.sqlite-wal
